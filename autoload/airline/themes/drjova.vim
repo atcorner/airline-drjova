@@ -26,7 +26,7 @@ let g:airline#themes#drjova#palette.replace = airline#themes#generate_color_map(
 
 " Normal modified mode
 let g:airline#themes#drjova#palette.inactive_modified = {
-    \ 'airline_c': [ '#ffffff' , '#80000' , 15 , 238, '' ]
+    \ 'airline_c': [ '#ffffff' , '#800000' , 15 , 238, '' ]
     \  }
 
 " Set modified color
